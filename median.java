@@ -21,7 +21,7 @@ class median{
     }else{
       float no1=num[num.length/2];
       float no2 = num[(num.length/2)-1];
-      System.out.println((no1+no2)/2);
+      System.out.println("The median is "+(no1+no2)/2);
     }
 }
 }
